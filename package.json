@@ -1,0 +1,9 @@
+{
+  "name": "lit-element-router",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "lit-element": "^2.2.1",
+    "lit-element-router": "2.0.0-rc.16"
+  }
+}
